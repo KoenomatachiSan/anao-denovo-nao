@@ -1,0 +1,49 @@
+{
+    "pt-br":{
+        "name": "Solo leveling",
+        "characters":[
+            {
+                "name": "Sung Jinwoo (성진우)",
+                "description":"Sung Jin-Woo (성진우 成 秦 禹) é o protagonista do Solo Leveling. Ele era conhecido anteriormente como o caçador mais fraco do mundo e mergulhou no caminho para se tornar o caçador mais forte do mundo depois que recebeu seu segundo despertar e acabou se tornando um jogador.Jin-Woo foi redespertado como Jogador após sobreviver ao Templo Cartenon e completar a missão secreta 'Coragem dos Fracos'. O misterioso Sistema permitiu que Jin-Woo subisse de nível sem limites e aumentasse sua força, ao contrário de todos os caçadores, que são incapazes de aumentar sua força a menos que sejam despertados.",
+                "personality":"Antes de seu Despertar, Jin-Woo era um jovem gentil, nervoso e muito tímido. Apesar de ser assim, ele respeitava seus companheiros Caçadores e foi corajoso o suficiente para continuar lutando nas Masmorras para ganhar dinheiro para cuidar de sua irmã e pagar as contas médicas de sua mãe; apesar de ser o caçador mais fraco que já existiu (anteriormente).Jin-Woo também mostrou ser uma pessoa inteligente, sendo capaz de manter a calma sob pressão enquanto descobria as pistas para lutar contra o chefe do Calabouço Duplo, enquanto a maioria dos caçadores experientes em seu grupo entraram em pânico e foram mortos pelas estátuas quando eles estavam tentando escapar. Isso também o torna um pouco cauteloso, pois hesitou em revelar sua força crescente até ter certeza de que poderia proteger sua família.",
+                "appearance":"Jin-Woo era um jovem de estatura média com longos cabelos negros e olhos cinzentos; sua constituição era frágil e, apesar de ser considerado mais forte que um humano comum, ele era o mais fraco entre os Caçadores. Antes do Incidente no D-Rank Dungeon, ele usava um moletom cinza com capuz e uma camiseta marrom.Após seu despertar como jogador, Jin-Woo foi capaz de ficar mais forte aumentando suas estatísticas, o que levou a uma mudança repentina em toda sua estatura / aparência.Por causa disso, ele ficou alguns centímetros mais alto; suas características faciais tornaram-se muito mais nítidas e ele ganhou uma estrutura magra / musculosa. Todo o seu comportamento também se tornou mais sério e intimidador. Ao lutar contra inimigos ou ao usar seus poderes, os olhos de Jin-Woo brilham em um azul pálido. Em alguns casos, uma aura sinistra vaza de Jin-Woo ao lado de um raio escuro. Isso é exibido em momentos em que Jin-Woo está furioso, como quando ele matou os Lizards durante o Arco de Dungeons & Lizards.. Antes de seu Despertar, Jin-Woo era um jovem gentil, nervoso e muito tímido. Apesar de ser assim, ele respeitava seus companheiros Caçadores e foi corajoso o suficiente para continuar lutando nas Masmorras para ganhar dinheiro para cuidar de sua irmã e pagar as contas médicas de sua mãe; apesar de ser o caçador mais fraco que já existiu (anteriormente).Jin-Woo também mostrou ser uma pessoa inteligente, sendo capaz de manter a calma sob pressão enquanto descobria as pistas para lutar contra o chefe do Calabouço Duplo, enquanto a maioria dos caçadores experientes em seu grupo entraram em pânico e foram mortos pelas estátuas quando eles estavam tentando escapar. Isso também o torna um pouco cauteloso, pois hesitou em revelar sua força crescente até ter certeza de que poderia proteger sua família.",
+                "skills":{
+                    "description":"Antes de seu Re-Despertar, Sung Jin-Woo tinha habilidades físicas que eram mais fortes do que os humanos, mas era considerado o mais fraco entre os Caçadores, já que foi ferido por monstros de baixo nível e quase morreu algumas vezes enquanto se aventurava dentro de os portões; ele foi ferido com muito mais frequência do que os outros Caçadores. Após seu despertar, Sung Jin-Woo se tornou um jogador e é capaz de crescer mais forte subindo de nível e distribuindo pontos de status para suas várias estatísticas, já que o 'Sistema' ajuda em seu crescimento. Mais tarde, ele alcançou habilidades físicas muito mais fortes do que as de outros Caçadores.",
+                    "skill_list":[
+                        {
+                            "name":"Extração de sombra",
+                            "description":"Um soldado das sombras é criado a partir de um corpo sem vida. Uma chance de falha aumenta com o quão alto os status do alvo são, e quando mais tempo tiver se passado desde sua morte."
+                        },
+                        {
+                            "name":"Salvamento de Sombra",
+                            "description":"Um soldado das sombras é criado a partir de um corpo sem vida. Uma chance de falha aumenta com o quão alto os status do alvo são, e quando mais tempo tiver se passado desde sua morte. "
+                        },
+                        {
+                            "name":"Troca de sombra",
+                            "description":"Sung Jin-Woo absorve os soldados das sombras criados e os guarda. Soldados salvos podem ser invocados e reabsorvidos onde e quando o invocador desejar. Quantidade de sombras que pode salvar aumenta conforme seu status de inteligencia evolui. Na novela já é possível guardar mais de 850 sombras."
+                        },
+                        {
+                            "name":"Área do monarca",
+                            "description":"Ele pode trocar de lugar com uma sombra em qualquer lugar que a sombra esteja. Jin-Woo usa para ir da Coreia até os outros países instantaneamente. Tempo de carregamento apos o uso, Lv 1: 3 Horas Lv 2: 2 Horas. "
+                        },
+                        {
+                            "name":"Área do monarca",
+                            "description":"Cria uma área das sombras que aumenta o status dos soldados das sombras enquanto permanecerem na área. "
+                        }
+                    ]
+                },
+                "items":[
+                    {
+                        "name":"Anel do Lorde Demônio",
+                        "description":"Parte de um conuunto com os 'Brincos da Monarca do Demônio' e o 'Colar do Monarca Demônio'. Nivel de raridade: S. Tipo: Acessório. Status: Sentido +20. Inteligência +20. Efeito de duas peças: Todas as estatisticas +5. Efeito conjunto completo: Todas as caracteristicas +10."
+                    },
+                    {
+                        "name":"Brincos do Monarca do Demônio",
+                        "description":"Parte de um conjunto com o Anel do Lorde Demônio e o Colar do Monarca Demônio. Raridade: S. Tipo: Acessório. Status: Força +20, Vitalidade +20 . Efeito de duas peças : Todas as estatísticas +5 . Efeito conjunto completo : Todas as estatísticas +10."
+                    }
+                ]
+    
+            }
+        ]
+    }
+}
