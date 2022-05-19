@@ -20,7 +20,7 @@ public class HelloWorldController {
         ObjectMapper mapper = new ObjectMapper();
 
         String response = restTemplate.getForObject(
-                "https://raw.githubusercontent.com/KoenomatachiSan/anao-denovo-nao/main/presentation.json",
+                "https://raw.githubusercontent.com/KoenomatachiSan/anao-denovo-nao/main/endpoints_db/presentation.json",
                 String.class);
         // JSONObject jsonObject = new JSONObject(response);
         // System.out.println(jsonObject.getString("title"));
