@@ -43,6 +43,47 @@
                     }
                 ]
     
+            },
+            {
+                "name": "Thomas Andre (트마스 아드레)",
+                "description":"Thomas Andre (트마스 아드레) é o caçador mais forte da america, e um dos cinco caçadores de ranking nacional, ranking numero 1 do mundo.",
+                "personality":"Thomas é um indivíduo orgulhoso e agressivo com um forte senso de camaradagem. Como resultado, ele ainda deu a Hwang Dongsoo um funeral adequado, embora o homem fosse um assassino sem coração e até lutou com Jinwoo até a morte para salvar sua vida. Thomas também tem pouca tolerância com insubordinação e desrespeito, como mostrado quando ele ameaçou Dongsoo por tentar discutir com ele e ficou com raiva quando Jinwoo se recusou a poupar Dongsoo por torturar Jinho.No entanto, apesar de seu orgulho, Thomas é muito gracioso na derrota, pois não mostrou má vontade em relação a Jinwoo depois que este quase o matou durante a batalha nos Estados Unidos. Ele também odeia possuir favores de pessoas e fará de tudo para se certificar de que eles estão quites, como mostrado quando ele viajou para a Coréia apenas para tratar Jinwoo com uma refeição e dar-lhe a Ira de Kamish como pagamento por poupar a vida de seus companheiros de guilda.",
+                "appearance":"Thomas é enorme, contém uma aparencia tremendamente forte e musculosa. Tem cabelos loiros, olhos vermelhos, tatuagens pretas. Se veste comumente como um hawaiano, composto por: Shorts e camisas floridas juntamente com um chinelo básico.",
+                "skills":{
+                    "description":"Como o navio de um governante e um caçador de nível nacional, Thomas é um dos caçadores mais fortes do mundo e seu imenso poder lhe rende grande medo e respeito de seus colegas S-Ranks e do governo americano.",
+                    "skill_list":[
+                        {
+                            "name":"Força Imensa",
+                            "description":"Thomas possui imensa força física. Como prova disso, ele foi capaz de enviar Jinwoo voando com um soco, derrubar prédios apenas com a pressão do vento gerada por seus ataques e lutar uniformemente contra o Monarca da Besta."
+                        },
+                        {
+                            "name":"Velocidade Imensa",
+                            "description":"Thomas possui velocidade imensa. Ele foi capaz de acompanhar Jinwoo em sua batalha e se ejetar de sua armadura com tanta velocidade que o Monarca da Besta não percebeu que ele se foi até que fosse quase tarde demais."
+                        },
+                        {
+                            "name":"Durabilidade Imensa",
+                            "description":"O corpo de Thomas é imensamente robusto e permite que ele suporte uma quantidade ridícula de punição, mesmo de oponentes muito mais fortes que ele. Ele foi capaz de continuar lutando contra Jinwoo mesmo depois que este quebrou o braço e o jogou através de vários prédios, e ficou completamente ileso quando o Monarca da Besta tentou cortá-lo com suas garras."
+                        },
+                        {
+                            "name":"Reforço",
+                            "description":"Thomas aumenta dramaticamente sua defesa e poder de ataque, cobrindo-o da cabeça aos pés em uma armadura dourada com chifres pretos e dando a seu cabelo uma qualidade de chama brilhante. A defesa que Thomas obtém desse movimento é tão grande que Jinwoo machucou as mãos por socá-lo tantas vezes em sua luta."
+                        },
+                        {
+                            "name":"Captura",
+                            "description":"Thomas puxa telecineticamente objetos em direção a si mesmo. De acordo com Jinwoo, com o Reforço ativado, esse ataque é quase como um buraco negro em potência e ele teria sido sugado se não pudesse usar a Autoridade do Governante. Como mais uma prova do poder deste ataque, foi capaz de puxar Kamish para fora do céu."
+                        },
+                        {
+                            "name":"Colapso",
+                            "description":"Thomas bate os punhos no chão, criando uma enorme onda de choque que destrói qualquer um que tenha a infelicidade de ser pego em seu raio de explosão."
+                        },
+                        {
+                            "name":"Manifestação do Corpo Espiritual Power Smash",
+                            "description":"Thomas infunde sua mana em um único braço e lança um soco extremamente poderoso."
+                        }
+                    ]
+                },
+                "items":[],
+                "references":["Chapter 149", "Chapter 145", "Chapter 84", "Chapter 134", "Chapter 139", "Chapter 147", "Chapter 149", "Chapter 153", "Chapter 157", "Chapter 172", "Chapter 173", "Chapter 146"]
             }
         ]
     }
