@@ -84,6 +84,31 @@
                 },
                 "items":[],
                 "references":["Chapter 149", "Chapter 145", "Chapter 84", "Chapter 134", "Chapter 139", "Chapter 147", "Chapter 149", "Chapter 153", "Chapter 157", "Chapter 172", "Chapter 173", "Chapter 146"]
+            },
+            {
+                "name": "Liu Zhigang (류즈캉刘志刚)",
+                "description":"Liu Zhigang (류즈캉刘志刚) é o caçador mais forte da China e um dos cinco caçadores de nível nacional, ocupando o 2º lugar no mundo.",
+                "personality":"Zhigang é impetuoso e faminto por batalhas, pois ficou desapontado pelo fato de não ter tido a chance de enfrentar o Rei Formiga. Ele também é franco na conversa, como mostrado quando disse a um repórter chinês que Sung Jinwoo estava muito acima dele em força e descartou aqueles que acreditavam o contrário como tolos. Ele, no entanto, age de forma amigável e humilde para com aqueles que ganharam seu respeito.",
+                "appearance":"Zhigang é um jovem musculoso e bonito com olhos amarelos escuros e longos cabelos pretos que ele usa em um rabo de cavalo, com vários grandes fios de cabelo pendurados em sua cabeça como folhas de uma árvore. Quando agitado ou usando seus poderes, seus olhos brilham em amarelo brilhante. Ele geralmente é visto vestindo capas vermelhas ou amarelas com golas pretas grossas, calças pretas e botas pretas.",
+                "skills":{
+                    "description":"Como o navio de um governante e um caçador de nível nacional, Zhigang é um dos caçadores mais fortes do mundo. Ele também era o caçador mais forte da Ásia até que Jinwoo o superou em força e foi notado como muito superior a Goto Ryuji, o caçador mais forte do Japão, em poder bruto por um capitão da marinha chinesa que os viu em ação em primeira mão.",
+                    "skill_list":[
+                        {
+                            "name":"Força Imensa",
+                            "description":"Zhigang possui imensa força física."
+                        },
+                        {
+                            "name":"Autoridade do Governante",
+                            "description":"Zhigang é capaz de controlar e mover objetos via telecinese."
+                        },
+                        {
+                            "name":"Spiritual Body Manifestation",
+                            "description":"Desconhecido."
+                        }
+                    ]
+                },
+                "items":[],
+                "references":[]
             }
         ]
     }
