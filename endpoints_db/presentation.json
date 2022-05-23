@@ -1,8 +1,18 @@
 {
-    "title": "Seja bem vindo ao nosso lobby de bots!",
-    "body": "Nosso lobby é composto por bots para melhorar a sua experiencia no nosso servidor. São compostos pelos bots:",
-    "bots": [{
-        "name":"[MANGA] Sung Jin Woo",
-        "description":"O bot irá gravar e gerenciar o estatus de leitura do mangá solo leveling, trazendo também uma wiki e diferentes curiosidades sobre o anime."
-    }]
+    "pt-br":{
+        "title": "Seja bem vindo ao nosso lobby de bots do discord!",
+        "body": "Nosso lobby é composto por bots para melhorar a sua experiencia no nosso servidor. São compostos pelos bots:",
+        "bots": [{
+            "name":"[KNM-MANGA] Solo Leveling",
+            "description":"Bot trará informações a respeito do anime."
+        }]
+    },
+    "en-us":{
+        "title": "Welcome to our discord bot lobby!",
+        "body":"Our lobby is made up of bots to improve your experience on our server. These are made up of bots:",
+        "bots":[{
+            "name":"[KNM-MANGA] Solo Leveling",
+            "description":"Bot will bring information about the anime."
+        }]
+    }
 }
