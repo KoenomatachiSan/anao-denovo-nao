@@ -1,8 +1,29 @@
 {
     "pt-br":{
         "name": "Solo leveling",
-        "characters":[
-            {
+        "prefix":"/knm solo-leveling ",
+        "commands":[{
+            "help":{
+                "header":"Wiki bot, com curiosidades e informações a respeito do anime em geral.",
+                "embeds":[
+                    {
+                        "title":"/knm solo-leveling personagens",
+                        "description":"Retornará uma lista com todos os personagens dos animes, podendo ser selecionados detalhes do mesmo."
+                    },
+                    {
+                        "title":"/knm solo-leveling personagem ~id~",
+                        "description":"Retornará um resumo com todas as informações a respeito do personagem solicitado."
+                    },
+                    {
+                        "title":"/knm solo-leveling help",
+                        "description":"Retornará uma lista de comandos e a descrição a respeito do bot."
+                    }
+                ],
+                "footer":"Desenvolvido por KNM TEAM"
+            }
+        }],
+        "database":{
+            "characters":[{
                 "name": "Sung Jinwoo (성진우)",
                 "description":"Sung Jin-Woo (성진우 成 秦 禹) é o protagonista do Solo Leveling. Ele era conhecido anteriormente como o caçador mais fraco do mundo e mergulhou no caminho para se tornar o caçador mais forte do mundo depois que recebeu seu segundo despertar e acabou se tornando um jogador.Jin-Woo foi redespertado como Jogador após sobreviver ao Templo Cartenon e completar a missão secreta 'Coragem dos Fracos'. O misterioso Sistema permitiu que Jin-Woo subisse de nível sem limites e aumentasse sua força, ao contrário de todos os caçadores, que são incapazes de aumentar sua força a menos que sejam despertados.",
                 "personality":"Antes de seu Despertar, Jin-Woo era um jovem gentil, nervoso e muito tímido. Apesar de ser assim, ele respeitava seus companheiros Caçadores e foi corajoso o suficiente para continuar lutando nas Masmorras para ganhar dinheiro para cuidar de sua irmã e pagar as contas médicas de sua mãe; apesar de ser o caçador mais fraco que já existiu (anteriormente).Jin-Woo também mostrou ser uma pessoa inteligente, sendo capaz de manter a calma sob pressão enquanto descobria as pistas para lutar contra o chefe do Calabouço Duplo, enquanto a maioria dos caçadores experientes em seu grupo entraram em pânico e foram mortos pelas estátuas quando eles estavam tentando escapar. Isso também o torna um pouco cauteloso, pois hesitou em revelar sua força crescente até ter certeza de que poderia proteger sua família.",
@@ -103,13 +124,38 @@
                         },
                         {
                             "name":"Spiritual Body Manifestation",
-                            "description":"Desconhecido."
+                            "description":"Sem informações."
                         }
                     ]
                 },
                 "items":[],
                 "references":[]
-            }
-        ]
+            },
+            {
+                "name": "Christopher Reed (크리스토퍼 리드)",
+                "description":"Christopher Reed (크리스토퍼 리드) foi o caçador mais forte da América e um dos cinco caçadores de nível nacional, ocupando o 3º lugar no mundo.",
+                "personality":"Chris era um tanto arrogante e tinha muito orgulho de seus poderes. Seu ego não o tornou estúpido, no entanto, ele levou a sério o aviso de Norma sobre sua morte predestinada depois de pensar um pouco. Ele também estava implícito em ser um lobo solitário, pois vivia na solidão, e não era o tipo de homem que descia sem lutar, pois atacou os três monarcas que vieram atrás dele, mesmo sabendo que ia morrer.",
+                "appearance":"Chris era um jovem musculoso com cabelos castanhos ondulados raspados em ambos os lados da cabeça, olhos azuis e pêlos faciais leves. Enquanto usava seus poderes ou agitado, seus olhos brilhavam em azul claro.Em sua primeira aparição, ele estava vestido com uma camisa cinza clara de manga comprida e calça com sandálias azuis crux. Em sua foto no noticiário, ele foi retratado vestindo uma jaqueta cinza-clara sobre uma camisa azul-petróleo.",
+                "skills":{
+                    "description":"",
+                    "skill_list":[
+                        {
+                            "name":"Força Imensa",
+                            "description":"Sem informações."
+                        },
+                        {
+                            "name":"Autoridade do Governante",
+                            "description":"Chris foi capaz de controlar e mover objetos via telecinese."
+                        },
+                        {
+                            "name":"Manifestação do Corpo Espiritual",
+                            "description":"Chris foi capaz de se transformar em um gigante de um olho só com cabelo laranja flamejante."
+                        }
+                    ]
+                },
+                "items":[],
+                "references":[]
+            }]
+        }
     }
 }
