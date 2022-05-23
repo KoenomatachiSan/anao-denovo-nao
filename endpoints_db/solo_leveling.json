@@ -24,6 +24,7 @@
         }],
         "database":{
             "characters":[{
+                "id":1,
                 "name": "Sung Jinwoo (성진우)",
                 "description":"Sung Jin-Woo (성진우 成 秦 禹) é o protagonista do Solo Leveling. Ele era conhecido anteriormente como o caçador mais fraco do mundo e mergulhou no caminho para se tornar o caçador mais forte do mundo depois que recebeu seu segundo despertar e acabou se tornando um jogador.Jin-Woo foi redespertado como Jogador após sobreviver ao Templo Cartenon e completar a missão secreta 'Coragem dos Fracos'. O misterioso Sistema permitiu que Jin-Woo subisse de nível sem limites e aumentasse sua força, ao contrário de todos os caçadores, que são incapazes de aumentar sua força a menos que sejam despertados.",
                 "personality":"Antes de seu Despertar, Jin-Woo era um jovem gentil, nervoso e muito tímido. Apesar de ser assim, ele respeitava seus companheiros Caçadores e foi corajoso o suficiente para continuar lutando nas Masmorras para ganhar dinheiro para cuidar de sua irmã e pagar as contas médicas de sua mãe; apesar de ser o caçador mais fraco que já existiu (anteriormente).Jin-Woo também mostrou ser uma pessoa inteligente, sendo capaz de manter a calma sob pressão enquanto descobria as pistas para lutar contra o chefe do Calabouço Duplo, enquanto a maioria dos caçadores experientes em seu grupo entraram em pânico e foram mortos pelas estátuas quando eles estavam tentando escapar. Isso também o torna um pouco cauteloso, pois hesitou em revelar sua força crescente até ter certeza de que poderia proteger sua família.",
@@ -66,6 +67,7 @@
     
             },
             {
+                "id":2,
                 "name": "Thomas Andre (트마스 아드레)",
                 "description":"Thomas Andre (트마스 아드레) é o caçador mais forte da america, e um dos cinco caçadores de ranking nacional, ranking numero 1 do mundo.",
                 "personality":"Thomas é um indivíduo orgulhoso e agressivo com um forte senso de camaradagem. Como resultado, ele ainda deu a Hwang Dongsoo um funeral adequado, embora o homem fosse um assassino sem coração e até lutou com Jinwoo até a morte para salvar sua vida. Thomas também tem pouca tolerância com insubordinação e desrespeito, como mostrado quando ele ameaçou Dongsoo por tentar discutir com ele e ficou com raiva quando Jinwoo se recusou a poupar Dongsoo por torturar Jinho.No entanto, apesar de seu orgulho, Thomas é muito gracioso na derrota, pois não mostrou má vontade em relação a Jinwoo depois que este quase o matou durante a batalha nos Estados Unidos. Ele também odeia possuir favores de pessoas e fará de tudo para se certificar de que eles estão quites, como mostrado quando ele viajou para a Coréia apenas para tratar Jinwoo com uma refeição e dar-lhe a Ira de Kamish como pagamento por poupar a vida de seus companheiros de guilda.",
@@ -107,6 +109,7 @@
                 "references":["Chapter 149", "Chapter 145", "Chapter 84", "Chapter 134", "Chapter 139", "Chapter 147", "Chapter 149", "Chapter 153", "Chapter 157", "Chapter 172", "Chapter 173", "Chapter 146"]
             },
             {
+                "id":3,
                 "name": "Liu Zhigang (류즈캉刘志刚)",
                 "description":"Liu Zhigang (류즈캉刘志刚) é o caçador mais forte da China e um dos cinco caçadores de nível nacional, ocupando o 2º lugar no mundo.",
                 "personality":"Zhigang é impetuoso e faminto por batalhas, pois ficou desapontado pelo fato de não ter tido a chance de enfrentar o Rei Formiga. Ele também é franco na conversa, como mostrado quando disse a um repórter chinês que Sung Jinwoo estava muito acima dele em força e descartou aqueles que acreditavam o contrário como tolos. Ele, no entanto, age de forma amigável e humilde para com aqueles que ganharam seu respeito.",
@@ -132,6 +135,7 @@
                 "references":[]
             },
             {
+                "id":4,
                 "name": "Christopher Reed (크리스토퍼 리드)",
                 "description":"Christopher Reed (크리스토퍼 리드) foi o caçador mais forte da América e um dos cinco caçadores de nível nacional, ocupando o 3º lugar no mundo.",
                 "personality":"Chris era um tanto arrogante e tinha muito orgulho de seus poderes. Seu ego não o tornou estúpido, no entanto, ele levou a sério o aviso de Norma sobre sua morte predestinada depois de pensar um pouco. Ele também estava implícito em ser um lobo solitário, pois vivia na solidão, e não era o tipo de homem que descia sem lutar, pois atacou os três monarcas que vieram atrás dele, mesmo sabendo que ia morrer.",
