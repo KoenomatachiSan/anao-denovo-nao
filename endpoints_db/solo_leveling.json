@@ -3,7 +3,7 @@
         "name": "Solo leveling",
         "prefix":"/knm solo-leveling ",
         "description":"Bot do manga solo leveling.",
-        "commands":[{
+        "commands":{
             "help":{
                 "header":"Wiki bot, com curiosidades e informações a respeito do anime em geral.",
                 "embeds":[
@@ -22,7 +22,7 @@
                 ],
                 "footer":"Desenvolvido por KNM TEAM"
             }
-        }],
+        },
         "database":{
             "characters":[{
                 "id":1,
