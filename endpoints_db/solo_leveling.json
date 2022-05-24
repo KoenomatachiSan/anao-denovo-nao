@@ -2,6 +2,7 @@
     "pt-br":{
         "name": "Solo leveling",
         "prefix":"/knm solo-leveling ",
+        "description":"Bot do manga solo leveling.",
         "commands":[{
             "help":{
                 "header":"Wiki bot, com curiosidades e informações a respeito do anime em geral.",
