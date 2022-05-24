@@ -5,7 +5,7 @@
         "description":"Bot do manga solo leveling.",
         "thumbnail_image":"https://images-na.ssl-images-amazon.com/images/I/916fu0VFcnL.jpg",
         "commands":{
-            "help":{
+            "ajuda":{
                 "header":"Wiki bot, com curiosidades e informações a respeito do anime em geral.",
                 "embeds":[
                     {
@@ -17,7 +17,7 @@
                         "description":"Retornará um resumo com todas as informações a respeito do personagem solicitado."
                     },
                     {
-                        "title":"/knm solo-leveling help",
+                        "title":"/knm solo-leveling ajuda",
                         "description":"Retornará uma lista de comandos e a descrição a respeito do bot."
                     }
                 ],
